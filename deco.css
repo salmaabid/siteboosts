@@ -1,0 +1,60 @@
+.c{background-image: url("./bg-masthead.jpg");
+height: 557px;
+background-position: center;
+}
+.cc{background-image: url("./bg-masthead.jpg");
+    height: 357px;
+    background-position: center;
+    }
+.hh{color: aliceblue;
+text-align: center;}
+
+.gg{margin-top: 200px;}
+.ggg{margin-top: 100px;}
+.styi{font-size: 60px;
+margin-left: 130px; 
+color: blue;}
+.titcard1{text-align: center;
+ font-style: oblique;
+font-size: 30px}
+.pcard1{text-align: center;
+font-size: 22px;
+color: darkslategrey}
+.titcard{text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+font-style: oblique;
+font-size: 30px}
+.pcard{text-align: left;
+font-size: 22px;
+margin-left: 100px;
+margin-right: 100px;
+color: darkslategrey}
+.marrow{padding-top: 50px;
+padding-bottom: 50px}
+
+.styim{width: 105%}
+.stymar{margin-top: 120px}
+.stydiv{background-color: rgb(240, 238, 238);
+}
+.stydivv{height: 600px;}
+.styimron{width: 200px;
+height:200px;
+margin-left: 80px}
+.styp{padding-top: 100px;
+margin-left: 450px;
+margin-bottom: 50px}
+.sh{font-size: 20px;
+font-style: oblique;
+text-align: center}
+.sp{font-size: 17px;
+text-align: center
+    
+}
+.stylei{font-size: 30px;
+color: dodgerblue;
+margin-left: 20px;}
+.stylecol{text-align: right;
+}
+.styleerow{margin-top: 50px;
+margin-bottom: 50px}
